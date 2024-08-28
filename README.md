@@ -8,6 +8,15 @@ Dummy can be useful in the early stages of a project's development, where basic 
 
 It can also been seen as a support tool for designers and front-end artisans ready to embrace the dark art of designing in-browser, as vastly different layout permutations can be generated and evaluated rapidly with each load of the page. Problems and shortcommings can be more quickly exposed.
 
+- [Markdown Guide](https://www.markdownguide.org/)
+- [GitHub Documentation](https://docs.github.com/)
+- [OpenAI](https://www.openai.com/)
+
+![image](https://github.com/user-attachments/assets/d49c4ad7-ce42-4d36-95ee-9b1fa3aad0bb)
+![image](https://github.com/user-attachments/assets/02ff9d51-8b1f-4bb5-8b48-d2991628654a)
+
+
+
 ### Dummy can…
 + Insert randomly selected strings of placeholder text in various lengths and formats (e.g. headline, teaser, paragraph).
 + Automagically crop and size high quality, news worthy, Creative Commons licensed placeholder images from a default pool – or from a specific folder or subset of folders that you provide.
@@ -22,7 +31,111 @@ It can also been seen as a support tool for designers and front-end artisans rea
 
 ### More Info
 Dummy's primary goal is to provide tools that speed front-end prototyping and QA. Whether you're meticulously crafting a fully responsive site with a myriad of CSS breakpoints, or just slapping together a half-baked idea – using Dummy should make it easier _at the earliest stages of development_ to visualize, test and present something much closer to what your actual front-end will become under a variety of different conditions.
+## Dummy can…
++ Insert randomly selected strings of placeholder text in various lengths and formats (e.g. headline, teaser, paragraph).
++ Automagically crop and size high quality, news worthy, Creative Commons licensed placeholder images from a default pool – or from a specific folder or subset of folders that you provide.
++ Flesh out highly variable, asset rich layouts quickly with friendly, human-readable logic for building loops and controlling probability.
++ Allow you to focus on the important things – namely, the design and the code – not on copying and pasting (static) Lorem Ipsum, or hunting down plausible placeholder images.
++ More. Not lots more, but a _bit_ more!
 
+### You can…
++ Watch a screencast at https://vimeo.com/42252088## Dummy can…
++ Insert randomly selected strings of placeholder text in various lengths and formats (e.g. headline, teaser, paragraph).
++ Automagically crop and size high quality, news worthy, Creative Commons licensed placeholder images from a default pool – or from a specific folder or subset of folders that you provide.
++ Flesh out highly variable, asset rich layouts quickly with friendly, human-readable logic for building loops and controlling probability.
++ Allow you to focus on the important things – namely, the design and the code – not on copying and pasting (static) Lorem Ipsum, or hunting down plausible placeholder images.
++ More. Not lots more, but a _bit_ more!
+
+### You can…
++ Watch a screencast at https://vimeo.com/42252088
++ Ask questions and direct misgivings to http://twitter.com/kerns
++ Fork, follow or download via https://github.com/kerns/dummy
+
+### More Info
+Dummy's primary goal is to provide tools that speed front-end prototyping and QA. Whether you're meticulously crafting a fully responsive site with a myriad of CSS breakpoints, or just slapping together a half-baked idea – using Dummy should make it easier _at the earliest stages of development_ to visualize, test and present something much closer to what your actual front-end will become under a variety of different conditions.## Dummy can…
++ Insert randomly selected strings of placeholder text in various lengths and formats (e.g. headline, teaser, paragraph).
++ Automagically crop and size high quality, news worthy, Creative Commons licensed placeholder images from a default pool – or from a specific folder or subset of folders that you provide.
++ Flesh out highly variable, asset rich layouts quickly with friendly, human-readable logic for building loops and controlling probability.
++ Allow you to focus on the important things – namely, the design and the code – not on copying and pasting (static) Lorem Ipsum, or hunting down plausible placeholder images.
++ More. Not lots more, but a _bit_ more!
+
+### You can…
++ Watch a screencast at https://vimeo.com/42252088
++ Ask questions and direct misgivings to http://twitter.com/kerns
++ Fork, follow or download via https://github.com/kerns/dummy
+
+### More Info
+Dummy's primary goal is to provide tools that speed front-end prototyping and QA. Whether you're meticulously crafting a fully responsive site with a myriad of CSS breakpoints, or just slapping together a half-baked idea – using Dummy should make it easier _at the earliest stages of development_ to visualize, test and present something much closer to what your actual front-end will become under a variety of different conditions.## Dummy can…
++ Insert randomly selected strings of placeholder text in various lengths and formats (e.g. headline, teaser, paragraph).
++ Automagically crop and size high quality, news worthy, Creative Commons licensed placeholder images from a default pool – or from a specific folder or subset of folders that you provide.
++ Flesh out highly variable, asset rich layouts quickly with friendly, human-readable logic for building loops and controlling probability.
++ Allow you to focus on the important things – namely, the design and the code – not on copying and pasting (static) Lorem Ipsum, or hunting down plausible placeholder images.
++ More. Not lots more, but a _bit_ more!
+
+### You can…
++ Watch a screencast at https://vimeo.com/42252088
++ Ask questions and direct misgivings to http://twitter.com/kerns
++ Fork, follow or download via https://github.com/kerns/dummy
+
+### More Info
+Dummy's primary goal is to provide tools that speed front-end prototyping and QA. Whether you're meticulously crafting a fully responsive site with a myriad of CSS breakpoints, or just slapping together a half-baked idea – using Dummy should make it easier _at the earliest stages of development_ to visualize, test and present something much closer to what your actual front-end will become under a variety of different conditions.## Dummy can…
++ Insert randomly selected strings of placeholder text in various lengths and formats (e.g. headline, teaser, paragraph).
++ Automagically crop and size high quality, news worthy, Creative Commons licensed placeholder images from a default pool – or from a specific folder or subset of folders that you provide.
++ Flesh out highly variable, asset rich layouts quickly with friendly, human-readable logic for building loops and controlling probability.
++ Allow you to focus on the important things – namely, the design and the code – not on copying and pasting (static) Lorem Ipsum, or hunting down plausible placeholder images.
++ More. Not lots more, but a _bit_ more!
+
+### You can…
++ Watch a screencast at https://vimeo.com/42252088
++ Ask questions and direct misgivings to http://twitter.com/kerns
++ Fork, follow or download via https://github.com/kerns/dummy
+
+### More Info
+Dummy's primary goal is to provide tools that speed front-end prototyping and QA. Whether you're meticulously crafting a fully responsive site with a myriad of CSS breakpoints, or just slapping together a half-baked idea – using Dummy should make it easier _at the earliest stages of development_ to visualize, test and present something much closer to what your actual front-end will become under a variety of different conditions.## Dummy can…
++ Insert randomly selected strings of placeholder text in various lengths and formats (e.g. headline, teaser, paragraph).
++ Automagically crop and size high quality, news worthy, Creative Commons licensed placeholder images from a default pool – or from a specific folder or subset of folders that you provide.
++ Flesh out highly variable, asset rich layouts quickly with friendly, human-readable logic for building loops and controlling probability.
++ Allow you to focus on the important things – namely, the design and the code – not on copying and pasting (static) Lorem Ipsum, or hunting down plausible placeholder images.
++ More. Not lots more, but a _bit_ more!
+
+### You can…
++ Watch a screencast at https://vimeo.com/42252088
++ Ask questions and direct misgivings to http://twitter.com/kerns
++ Fork, follow or download via https://github.com/kerns/dummy
+
+### More Info
+Dummy's primary goal is to provide tools that speed front-end prototyping and QA. Whether you're meticulously crafting a fully responsive site with a myriad of CSS breakpoints, or just slapping together a half-baked idea – using Dummy should make it easier _at the earliest stages of development_ to visualize, test and present something much closer to what your actual front-end will become under a variety of different conditions.## Dummy can…
++ Insert randomly selected strings of placeholder text in various lengths and formats (e.g. headline, teaser, paragraph).
++ Automagically crop and size high quality, news worthy, Creative Commons licensed placeholder images from a default pool – or from a specific folder or subset of folders that you provide.
++ Flesh out highly variable, asset rich layouts quickly with friendly, human-readable logic for building loops and controlling probability.
++ Allow you to focus on the important things – namely, the design and the code – not on copying and pasting (static) Lorem Ipsum, or hunting down plausible placeholder images.
++ More. Not lots more, but a _bit_ more!
+
+### You can…
++ Watch a screencast at https://vimeo.com/42252088
++ Ask questions and direct misgivings to http://twitter.com/kerns
++ Fork, follow or download via https://github.com/kerns/dummy
+
+### More Info
+Dummy's primary goal is to provide tools that speed front-end prototyping and QA. Whether you're meticulously crafting a fully responsive site with a myriad of CSS breakpoints, or just slapping together a half-baked idea – using Dummy should make it easier _at the earliest stages of development_ to visualize, test and present something much closer to what your actual front-end will become under a variety of different conditions.## Dummy can…
++ Insert randomly selected strings of placeholder text in various lengths and formats (e.g. headline, teaser, paragraph).
++ Automagically crop and size high quality, news worthy, Creative Commons licensed placeholder images from a default pool – or from a specific folder or subset of folders that you provide.
++ Flesh out highly variable, asset rich layouts quickly with friendly, human-readable logic for building loops and controlling probability.
++ Allow you to focus on the important things – namely, the design and the code – not on copying and pasting (static) Lorem Ipsum, or hunting down plausible placeholder images.
++ More. Not lots more, but a _bit_ more!
+
+### You can…
++ Watch a screencast at https://vimeo.com/42252088
++ Ask questions and direct misgivings to http://twitter.com/kerns
++ Fork, follow or download via https://github.com/kerns/dummy
+
+### More Info
+Dummy's primary goal is to provide tools that speed front-end prototyping and QA. Whether you're meticulously crafting a fully responsive site with a myriad of CSS breakpoints, or just slapping together a half-baked idea – using Dummy should make it easier _at the earliest stages of development_ to visualize, test and present something much closer to what your actual front-end will become under a variety of different conditions.
++ Ask questions and direct misgivings to http://twitter.com/kerns
++ Fork, follow or download via https://github.com/kerns/dummy
+
+### More Info
+Dummy's primary goal is to provide tools that speed front-end prototyping and QA. Whether you're meticulously crafting a fully responsive site with a myriad of CSS breakpoints, or just slapping together a half-baked idea – using Dummy should make it easier _at the earliest stages of development_ to visualize, test and present something much closer to what your actual front-end will become under a variety of different conditions.
 
 **Dummy is for the front-end web worker who wonders…**
 
